@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemy
   - Board
+  - Rail
+  - Buddy1
+  - Buddy2
   layers:
   - Default
   - TransparentFX
