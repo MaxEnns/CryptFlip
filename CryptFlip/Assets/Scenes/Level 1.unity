@@ -189,7 +189,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh228690
+  m_Name: pb_Mesh30154
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -425,7 +425,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1106251874}
-  m_LocalRotation: {x: 0.09853762, y: 0.000000004280661, z: -4.238689e-10, w: 0.99513334}
+  m_LocalRotation: {x: 0.098537624, y: -0.0000000042806607, z: 4.238689e-10, w: 0.99513334}
   m_LocalPosition: {x: -11.977804, y: 2, z: 0.9000001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1140,7 +1140,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-305068
+  m_Name: pb_Mesh-1630
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1311,15 +1311,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.09853762
+      value: 0.098537624
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.000000004280661
+      value: -0.0000000042806607
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -4.238689e-10
+      value: 4.238689e-10
       objectReference: {fileID: 0}
     - target: {fileID: 6598800636041608425, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_Mesh
@@ -1329,6 +1329,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1779677655}
+    - target: {fileID: 6598800636041608438, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
+      propertyPath: m_VersionIndex
+      value: 4993
+      objectReference: {fileID: 0}
     - target: {fileID: 6598800636197980128, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_RootOrder
       value: 1
