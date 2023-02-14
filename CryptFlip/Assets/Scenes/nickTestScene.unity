@@ -4902,6 +4902,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6598800635684165746, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
+      propertyPath: m_HorizontalDamping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0.09853762
@@ -10185,7 +10189,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30590
+  m_Name: pb_Mesh50070
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
