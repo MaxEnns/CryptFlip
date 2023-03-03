@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7328310943381168612}
   - component: {fileID: 7328310943381168611}
   - component: {fileID: 7328310943381168610}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wine Barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
