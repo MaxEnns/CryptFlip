@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 1330924969085718351}
   - component: {fileID: 1330924969085718348}
   - component: {fileID: 1330924969085718349}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: rail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
