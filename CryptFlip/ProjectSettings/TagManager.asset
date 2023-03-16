@@ -9,6 +9,7 @@ TagManager:
   - Rail
   - Buddy1
   - Buddy2
+  - DoorTrigger
   layers:
   - Default
   - TransparentFX
