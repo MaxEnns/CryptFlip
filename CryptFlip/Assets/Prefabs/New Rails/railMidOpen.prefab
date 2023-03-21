@@ -366,6 +366,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 737f13ad7c66ea748bde688747b22764, type: 2}
+    - target: {fileID: -3609465257553087523, guid: 04e707f65ea165341880735138752702, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -823884636923139405, guid: 04e707f65ea165341880735138752702, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -374,10 +378,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: railMidOpen
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04e707f65ea165341880735138752702, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5055103461685192295, guid: 04e707f65ea165341880735138752702, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 737f13ad7c66ea748bde688747b22764, type: 2}
+    - target: {fileID: 7625554752254088190, guid: 04e707f65ea165341880735138752702, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04e707f65ea165341880735138752702, type: 3}
 --- !u!1 &305651721759001390 stripped

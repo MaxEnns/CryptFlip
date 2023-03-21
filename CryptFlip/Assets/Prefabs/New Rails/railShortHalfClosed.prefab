@@ -370,10 +370,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: railShortHalfClosed
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7da6eef3a93815a45883721a9ce25289, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883659783058138916, guid: 7da6eef3a93815a45883721a9ce25289, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 737f13ad7c66ea748bde688747b22764, type: 2}
+    - target: {fileID: 6819405807405335757, guid: 7da6eef3a93815a45883721a9ce25289, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7da6eef3a93815a45883721a9ce25289, type: 3}
 --- !u!1 &1261986427503207927 stripped

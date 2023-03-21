@@ -374,10 +374,18 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 737f13ad7c66ea748bde688747b22764, type: 2}
+    - target: {fileID: -4855839969137567022, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -962487487795754086, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 737f13ad7c66ea748bde688747b22764, type: 2}
+    - target: {fileID: -569605405629894487, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 86375563887984255, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -385,6 +393,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
       propertyPath: m_Name
       value: railLongClosed
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5111294815929775235, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492676705037244765, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24c263d2d9100724dace28caf10569d8, type: 3}
