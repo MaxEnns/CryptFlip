@@ -59,9 +59,10 @@ GameObject:
   - component: {fileID: 4161579891763239632}
   - component: {fileID: 4161579891763239633}
   - component: {fileID: 585999192530329036}
+  - component: {fileID: 2357734473135986940}
   m_Layer: 0
   m_Name: Werewolf
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -183,6 +184,26 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!95 &2357734473135986940
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4161579891763239637}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 2fb7dd658c880f74a89cded3877808e8, type: 3}
+  m_Controller: {fileID: 9100000, guid: 72d777eb147857e41a8e6df515b8784e, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &6166960789428192848
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -242,7 +263,8 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 72d777eb147857e41a8e6df515b8784e, type: 2}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5866666021909216657, guid: 2fb7dd658c880f74a89cded3877808e8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2fb7dd658c880f74a89cded3877808e8, type: 3}
 --- !u!4 &5917671999225471419 stripped
 Transform:
