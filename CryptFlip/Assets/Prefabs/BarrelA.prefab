@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2374475516000459377}
   - component: {fileID: 407767275523351696}
   - component: {fileID: 3465497325805928456}
+  - component: {fileID: 9034244846542290279}
   m_Layer: 0
   m_Name: BarrelA
   m_TagString: Untagged
@@ -60,10 +61,23 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.4652834
-  m_Height: 1.1083806
+  m_Radius: 0.47097528
+  m_Height: 1.1093717
   m_Direction: 1
-  m_Center: {x: 0, y: -0.10974944, z: 0.0016531944}
+  m_Center: {x: -0.00050878525, y: -0.10974944, z: -0.007177472}
+--- !u!65 &9034244846542290279
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986578690712603347}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.586318, y: 1.104574, z: 0.561465}
+  m_Center: {x: 0.0004172325, y: -0.104917884, z: 0.0053471327}
 --- !u!1001 &377003472429966022
 PrefabInstance:
   m_ObjectHideFlags: 0
