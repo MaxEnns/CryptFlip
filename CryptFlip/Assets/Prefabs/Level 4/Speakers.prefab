@@ -105,6 +105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Speaker1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 077a06d947cb69b428d00d4bf408857d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 077a06d947cb69b428d00d4bf408857d, type: 3}
 --- !u!4 &575150746444566210 stripped
@@ -201,6 +205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: speaker2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 75dc09f544512c243812b0c89be92123, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75dc09f544512c243812b0c89be92123, type: 3}
 --- !u!4 &266515390056996128 stripped
@@ -296,6 +304,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 077a06d947cb69b428d00d4bf408857d, type: 3}
       propertyPath: m_Name
       value: Speaker1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 077a06d947cb69b428d00d4bf408857d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 077a06d947cb69b428d00d4bf408857d, type: 3}
