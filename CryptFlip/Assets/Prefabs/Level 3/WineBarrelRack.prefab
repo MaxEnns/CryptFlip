@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5867400577414472291}
+  - component: {fileID: 6857112136155336547}
   m_Layer: 0
   m_Name: WineBarrelRack
   m_TagString: Untagged
@@ -32,6 +33,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6857112136155336547
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1935880903569750737}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.9724836, y: 3.782259, z: 1.3413391}
+  m_Center: {x: 0.0085988045, y: 1.9416857, z: -0.002456665}
 --- !u!1001 &1083890267784210934
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -126,7 +140,7 @@ PrefabInstance:
     - target: {fileID: 8424073627695423409, guid: a83ea4ffe9b1753458dabc03dbb93ddc, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 639c0bacdffac8f49ae538ed21fff7dd, type: 2}
+      objectReference: {fileID: 2100000, guid: e26b13c21d1d2544289d01d2831cf3c2, type: 2}
     - target: {fileID: 8857269059968273594, guid: a83ea4ffe9b1753458dabc03dbb93ddc, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
