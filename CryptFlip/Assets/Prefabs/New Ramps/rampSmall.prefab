@@ -2598,7 +2598,7 @@ MonoBehaviour:
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
-  m_SelectedVertices: 1f00000026000000c1000000c8000000220000002b000000c3000000ca000000270000002e000000c9000000d00000002a00000033000000cb000000d20000002f00000036000000d1000000d8000000320000003b000000d3000000da000000370000003e000000d9000000e00000003a00000043000000db000000e20000003f00000046000000e1000000e8000000420000004b000000e3000000ea000000470000004e000000e9000000f00000004a00000053000000eb000000f20000004f00000056000000f1000000f8000000520000005b000000f3000000fa000000570000005e000000f9000000000100005a00000063000000fb000000020100005f000000660000000101000008010000620000006b000000030100000a010000670000006e00000009010000100100006a000000730000000b010000120100006f000000760000001101000018010000720000007b000000130100001a010000770000007e00000019010000200100007a000000830000001b010000220100007f000000860000002101000028010000820000008b000000230100002a010000870000008e00000029010000300100008a000000930000002b010000320100008f000000960000003101000038010000920000009b000000330100003a010000970000009e00000039010000400100009a000000a30000003b010000420100009f000000a500000041010000a2000000a400000043010000
+  m_SelectedVertices: 
 --- !u!114 &2097397922611279886
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2784,7 +2784,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 02696ef5c82646148b4216a7f1558ce5, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 02696ef5c82646148b4216a7f1558ce5, type: 3}
       propertyPath: m_IsActive
@@ -2820,22 +2820,3 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4857503100105422161, guid: 02696ef5c82646148b4216a7f1558ce5, type: 3}
---- !u!114 &8877388510624665631
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7968862196907067992}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"rampEdgeL","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"rampEdgeR","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 2097397921928742394}
-    - {fileID: 2097397922450978256}
