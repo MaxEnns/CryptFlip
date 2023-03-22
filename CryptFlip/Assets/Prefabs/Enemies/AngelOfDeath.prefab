@@ -224,5 +224,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: AoD_Proxy_Model
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0375396133241744a8f5ae3dc2d4c066, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0375396133241744a8f5ae3dc2d4c066, type: 3}
