@@ -352,6 +352,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2244679252322401502}
     m_Modifications:
+    - target: {fileID: -8823938405297825783, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -424,9 +428,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: danceFloor
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225226523080474985, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8730707398080843037, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
       propertyPath: m_Layer
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730707398080843037, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9eee50c800889de47adda4cef3b46a20, type: 3}
