@@ -10,6 +10,7 @@ TagManager:
   - Buddy1
   - Buddy2
   - DoorTrigger
+  - Enemy2
   layers:
   - Default
   - TransparentFX
