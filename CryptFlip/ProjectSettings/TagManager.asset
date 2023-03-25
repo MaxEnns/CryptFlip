@@ -11,6 +11,7 @@ TagManager:
   - Buddy2
   - DoorTrigger
   - Enemy2
+  - MidDoor
   layers:
   - Default
   - TransparentFX
