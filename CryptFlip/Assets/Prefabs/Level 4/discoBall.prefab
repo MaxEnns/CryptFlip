@@ -52,7 +52,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -35930,12 +35930,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7617455152733608253, guid: a8180879b3e6b8c498416e851890374b, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7617455152733608253, guid: a8180879b3e6b8c498416e851890374b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 210e1ce1e54dc734dbf4363c4a909ac4, type: 2}
     - target: {fileID: -7265520057244091762, guid: a8180879b3e6b8c498416e851890374b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4903622526554248300, guid: a8180879b3e6b8c498416e851890374b, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -4903622526554248300, guid: a8180879b3e6b8c498416e851890374b, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -35956,6 +35964,10 @@ PrefabInstance:
     - target: {fileID: 1172694014053316024, guid: a8180879b3e6b8c498416e851890374b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439108122781224523, guid: a8180879b3e6b8c498416e851890374b, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7439108122781224523, guid: a8180879b3e6b8c498416e851890374b, type: 3}
       propertyPath: m_Materials.Array.data[0]
