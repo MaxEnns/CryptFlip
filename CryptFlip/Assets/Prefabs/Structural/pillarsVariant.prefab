@@ -42,7 +42,7 @@ MeshCollider:
   m_GameObject: {fileID: 2626027834795459629}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
@@ -144,7 +144,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -8116138440861595531, guid: 99fccaa84ad987845820f229f7adeeb5, type: 3}
 --- !u!4 &4148231279093815575 stripped
