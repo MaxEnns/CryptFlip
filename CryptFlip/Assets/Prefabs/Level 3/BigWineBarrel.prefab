@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 2028984411981108371}
   - component: {fileID: 4297323966200508441}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: BigWineBarrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2028984411981108371
 Transform:
@@ -58,6 +58,10 @@ PrefabInstance:
     - target: {fileID: 7328310943381168609, guid: f9d1cd669bfce5f43b415197d81ae14b, type: 3}
       propertyPath: m_Name
       value: Wine Barrel
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328310943381168609, guid: f9d1cd669bfce5f43b415197d81ae14b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7328310943381168610, guid: f9d1cd669bfce5f43b415197d81ae14b, type: 3}
       propertyPath: m_Mesh
@@ -3897,6 +3901,14 @@ PrefabInstance:
       propertyPath: m_SelectedEditorRenderState
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: -898426760031028635, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -898426760031028635, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -771017476675958458, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3905,6 +3917,14 @@ PrefabInstance:
       propertyPath: m_SelectedEditorRenderState
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: -597807703841646368, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -597807703841646368, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 645580069045106141, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -3912,6 +3932,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
       propertyPath: m_Name
       value: WineBarrelBig
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1601806757980370329, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
       propertyPath: m_Mesh
@@ -3924,6 +3952,14 @@ PrefabInstance:
     - target: {fileID: 2337797808615379508, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
       propertyPath: m_SelectedEditorRenderState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4658601600683606499, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4658601600683606499, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76826f4c07914fa47b8d5625837ec6ce, type: 3}

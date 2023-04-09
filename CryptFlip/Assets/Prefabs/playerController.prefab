@@ -980,7 +980,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1921868743}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0000000018626451, y: -0.81, z: 0.0000000037252903}
+  m_LocalPosition: {x: 0.0000000018626451, y: -0.694, z: 0.0000000037252903}
   m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000002}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1299,7 +1299,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 526062231932351379}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 0.812, z: 0.013}
+  m_LocalPosition: {x: -0, y: 0.721, z: -0.038}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2644,7 +2644,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 599
+  m_VersionIndex: 602
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -2760,7 +2760,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5095225586705612614
 Transform:
   m_ObjectHideFlags: 0
@@ -2769,7 +2769,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701343044845273344}
   m_LocalRotation: {x: -0, y: -0.0000030212104, z: -5.684342e-14, w: 1}
-  m_LocalPosition: {x: -0.0100000445, y: 1.6030002, z: 0.009000718}
+  m_LocalPosition: {x: -0.0100000445, y: 1.6030002, z: 0.049}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6775,8 +6775,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6598800635981700750}
-  m_LocalRotation: {x: 0.18910767, y: -0.000000029264582, z: 0.0000000056358482, w: 0.98195636}
-  m_LocalPosition: {x: 0, y: 2, z: -2.499998}
+  m_LocalRotation: {x: 0.18910763, y: -0, z: -0.0000000074505797, w: 0.98195636}
+  m_LocalPosition: {x: -0.00000023841864, y: 2, z: -2.4999983}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7037,17 +7037,17 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"railSensor","value":{"$content":12,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Bloom","value":{"$content":13,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DoorTrigger","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"flipCenter","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"bailSensor","value":{"$content":14,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"flipCenter","value":{"$content":14,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"bailSensor","value":{"$content":15,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"bailPos","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"isBailing","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DoorLockedTrigger","value":{"$content":15,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DoorLockedTrigger","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"attackHitbox","value":{"$content":16,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Speedlines","value":{"$content":17,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Grinding_audio","value":null,"typeHandle":{"Identification":"UnityEngine.AudioSource,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Speedlines","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Grinding_audio","value":{"$content":17,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardHit_audio","value":{"$content":18,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardSwing_audio","value":null,"typeHandle":{"Identification":"UnityEngine.AudioSource,
-      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHit_audio","value":{"$content":19,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardSwing_audio","value":{"$content":19,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHit_audio","value":{"$content":20,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 526062231932351379}
@@ -7065,10 +7065,11 @@ MonoBehaviour:
     - {fileID: 1921868743}
     - {fileID: 257701892}
     - {fileID: 8789010511654349070}
-    - {fileID: 0}
+    - {fileID: 1701343044845273344}
     - {fileID: 1273311796728137793}
-    - {fileID: 0}
+    - {fileID: 1878130305}
     - {fileID: 3231832823897069508}
+    - {fileID: 7511946494004986391}
     - {fileID: 2344915663218991886}
 --- !u!114 &6598800636197980141
 MonoBehaviour:
@@ -7097,9 +7098,9 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.2
-  m_Height: 1.0966039
+  m_Height: 1.467554
   m_Direction: 1
-  m_Center: {x: 0, y: 0.5434549, z: 0}
+  m_Center: {x: 0, y: 0.72892994, z: 0}
 --- !u!114 &1156865348
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7355,10 +7356,10 @@ BoxCollider:
   m_GameObject: {fileID: 541832797228245065}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
-  m_Size: {x: 0.22071664, y: 0.73202854, z: 0.11781025}
-  m_Center: {x: 0.00000048056245, y: 0.0000019073486, z: 0.0000000018626451}
+  m_Size: {x: 0.22071664, y: 0.7320286, z: 0.10645975}
+  m_Center: {x: 0.0000004762225, y: 0.000001904949, z: 0.0056752986}
 --- !u!4 &1046546100103678573 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0770e4cf0e644dc4ca1303b56de4421b, type: 3}
