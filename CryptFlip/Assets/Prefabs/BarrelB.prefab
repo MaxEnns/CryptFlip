@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5334671824933497064}
   - component: {fileID: 1819613960286897178}
   - component: {fileID: 4159510758433606999}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: BarrelB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,6 +156,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0dea2305ac0f54493989b609a8a155, type: 3}
       propertyPath: m_Name
       value: BarrelALP
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9d0dea2305ac0f54493989b609a8a155, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9d0dea2305ac0f54493989b609a8a155, type: 3}
       propertyPath: m_IsActive
