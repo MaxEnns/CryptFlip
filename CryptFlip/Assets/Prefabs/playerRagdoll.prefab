@@ -2597,6 +2597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: dracula_model
       objectReference: {fileID: 0}
+    - target: {fileID: 1454064414871092954, guid: 0770e4cf0e644dc4ca1303b56de4421b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b6e87e80c5fde2842a8dde323e2f494e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0770e4cf0e644dc4ca1303b56de4421b, type: 3}
 --- !u!4 &6246209811350163775 stripped
