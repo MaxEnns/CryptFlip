@@ -2808,15 +2808,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.18910767
+      value: 0.18910764
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.000000029264582
+      value: -1.712253e-15
       objectReference: {fileID: 0}
     - target: {fileID: 6598800635981700748, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0000000056358482
+      value: 2.2775615e-16
       objectReference: {fileID: 0}
     - target: {fileID: 6598800636041608425, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: m_Mesh
@@ -2920,16 +2920,17 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"attackHitbox","value":{"$content":20,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Speedlines","value":{"$content":21,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Trail
-        Effect","value":{"$content":22,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Grinding_audio","value":{"$content":23,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardHit_audio","value":{"$content":24,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardSwing_audio","value":{"$content":25,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
-        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHit_audio","value":{"$content":26,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+        Effect","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Grinding_audio","value":null,"typeHandle":{"Identification":"UnityEngine.AudioSource,
+        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardHit_audio","value":{"$content":22,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"skateboardSwing_audio","value":{"$content":23,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHit_audio","value":{"$content":24,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
+        UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Skateboard_audio","value":{"$content":25,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
         UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 27
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[18]
@@ -2950,19 +2951,19 @@ PrefabInstance:
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[22]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 586553645}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[23]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 586553646}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[24]
       value: 
-      objectReference: {fileID: 586553645}
+      objectReference: {fileID: 586553644}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[25]
       value: 
-      objectReference: {fileID: 586553646}
+      objectReference: {fileID: 586553643}
     - target: {fileID: 6598800636197980140, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
       propertyPath: _data._objectReferences.Array.data[26]
       value: 
@@ -2976,6 +2977,11 @@ PrefabInstance:
 --- !u!4 &586553642 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6598800636197980128, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
+  m_PrefabInstance: {fileID: 586553641}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &586553643 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 3040290340372580659, guid: 2d2a396f21c22dc46be4b81e09c31425, type: 3}
   m_PrefabInstance: {fileID: 586553641}
   m_PrefabAsset: {fileID: 0}
 --- !u!82 &586553644 stripped
@@ -5255,7 +5261,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1195642236}
-  m_LocalRotation: {x: 0.18910767, y: 0.000000029264582, z: -0.0000000056358482, w: 0.98195636}
+  m_LocalRotation: {x: 0.18910764, y: -1.712253e-15, z: 2.2775615e-16, w: 0.98195636}
   m_LocalPosition: {x: -19.791891, y: 1.8407316, z: -17.636768}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
